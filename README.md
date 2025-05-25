@@ -91,7 +91,7 @@ Supports real-time dashboards and larger datasets for analytics workflows.
 - Savings and investment plans are differentiated using flags:
   - `is_regular_savings`, `open_savings_plan`
   - `is_a_fund`, `is_fixed_investment`
-- Only active (unlocked)** plans are considered for most reports.
+- Only active (unlocked) plans are considered for most reports.
 
 ---
 
